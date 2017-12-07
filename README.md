@@ -1,3 +1,7 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/buoyantio/kubectl.svg)](https://hub.docker.com/r/buoyantio/kubectl/)
+
+# Kubectl
+
 Kubectl in a scratch Docker image.
 
 Available at: https://hub.docker.com/r/buoyantio/kubectl/
