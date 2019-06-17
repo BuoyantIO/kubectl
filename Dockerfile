@@ -1,5 +1,5 @@
 FROM alpine:3.8 as builder
-ARG K8S_VERSION=v1.12.2
+ARG K8S_VERSION=v1.14.3
 RUN set -x                  && \
     apk --update upgrade    && \
     apk add ca-certificates && \
